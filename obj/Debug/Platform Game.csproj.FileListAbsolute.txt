@@ -1,0 +1,9 @@
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Platform Game\bin\Debug\Platform Game.exe.config
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Platform Game\bin\Debug\Platform Game.exe
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Platform Game\bin\Debug\Platform Game.pdb
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Platform Game\obj\Debug\Platform Game.csprojResolveAssemblyReference.cache
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Platform Game\obj\Debug\Platform_Game.Form1.resources
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Platform Game\obj\Debug\Platform_Game.Properties.Resources.resources
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Platform Game\obj\Debug\Platform Game.csproj.GenerateResource.Cache
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Platform Game\obj\Debug\Platform Game.exe
+C:\Users\ABAH JOSEPH ISRAEL\Documents\Visual Studio 2015\Projects\CODE360\Platform Game\obj\Debug\Platform Game.pdb
